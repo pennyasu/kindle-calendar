@@ -1,1 +1,230 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJSZW5kZXIgdG9kYXkncyBzY3JlZW5zYXZlciBjYWxlbmRhciBQTkcgKDEyNjR4MTY4MCwgZ3JheXNjYWxlKSBmb3IgS2luZGxlIE9hc2lzIDMuCgpMYXlvdXQ6IGJpZyBkYXkgbnVtYmVyLCB3ZWVrZGF5LCBsdW5hciBkYXRlLCBjdXJyZW50IHdlYXRoZXIgKE1hcmtoYW0sIE9OKSwKbW9udGggZ3JpZCB3aXRoIHRvZGF5IGhpZ2hsaWdodGVkLCB0b2RheSdzIHRvZG8gbGlzdCAoZnJvbSB0b2Rvcy5qc29uLCBvbmx5CnNob3duIHdoZW4gdGhlIGZpbGUncyBkYXRlIGlzIHRvZGF5KSwgMy1kYXkgZm9yZWNhc3QuIFdlYXRoZXIgZnJvbSBPcGVuLU1ldGVvCihmcmVlLCBubyBrZXkpLiBMdW5hciBjb252ZXJzaW9uIHVzZXMgdGhlIGJ1bmRsZWQgbHVuYXJfdGFibGUuanNvbgooeWVhcnMgMjAyNS0yMDMzLCB2ZXJpZmllZCBhZ2FpbnN0IHRoZSBgbHVuYXJkYXRlYCBwYWNrYWdlKS4KT3V0cHV0OiBjYWxlbmRhci5wbmcgaW4gdGhpcyBzY3JpcHQncyBkaXJlY3RvcnkuCiIiIgppbXBvcnQganNvbgppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgdXJsbGliLnJlcXVlc3QKZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWVkZWx0YQpmcm9tIHpvbmVpbmZvIGltcG9ydCBab25lSW5mbwoKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZURyYXcsIEltYWdlRm9udAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpUWiA9IFpvbmVJbmZvKCJBbWVyaWNhL1Rvcm9udG8iKQpXLCBIID0gMTI2NCwgMTY4MApMQVQsIExPTiA9IDQzLjkwLCAtNzkuMjcgICMgTWFya2hhbSwgT04KCldNTyA9IHswOiAi5pm0IiwgMTogIuWkmuS6kSIsIDI6ICLlpJrkupEiLCAzOiAi6Zi0IiwgNDU6ICLpm74iLCA0ODogIumbviIsCiAgICAgICA1MTogIuavm+avm+mbqCIsIDUzOiAi5q+b5q+b6ZuoIiwgNTU6ICLmr5vmr5vpm6giLCA1NjogIuWGu+avm+avm+mbqCIsIDU3OiAi5Ya75q+b5q+b6ZuoIiwKICAgICAgIDYxOiAi5bCP6ZuoIiwgNjM6ICLkuK3pm6giLCA2NTogIuWkp+mbqCIsIDY2OiAi5Ya76ZuoIiwgNjc6ICLlhrvpm6giLAogICAgICAgNzE6ICLlsI/pm6oiLCA3MzogIuS4rembqiIsIDc1OiAi5aSn6ZuqIiwgNzc6ICLpm6rnspIiLAogICAgICAgODA6ICLpmLXpm6giLCA4MTogIumYtembqCIsIDgyOiAi5pq06ZuoIiwgODU6ICLpmLXpm6oiLCA4NjogIumYtembqiIsCiAgICAgICA5NTogIumbt+mYtembqCIsIDk2OiAi5Yaw6Zu5IiwgOTk6ICLlhrDpm7kifQpMVU5BUl9NT05USFMgPSBbIuatoyIsICLkuowiLCAi5LiJIiwgIuWbmyIsICLkupQiLCAi5YWtIiwgIuS4gyIsICLlhasiLCAi5LmdIiwgIuWNgSIsICLlhqwiLCAi6IWKIl0KV0VFS0RBWVMgPSBbIuS4gCIsICLkuowiLCAi5LiJIiwgIuWbmyIsICLkupQiLCAi5YWtIiwgIuaXpSJdICAjIE1vbmRheS1maXJzdAoKCmRlZiBsdW5hcl9kYXlfc3RyKGQpOgogICAgaWYgZCA8PSAxMDoKICAgICAgICByZXR1cm4gIuWInSIgKyAi5LiA5LqM5LiJ5Zub5LqU5YWt5LiD5YWr5Lmd5Y2BIltkIC0gMV0KICAgIGlmIGQgPCAyMDoKICAgICAgICByZXR1cm4gIuWNgSIgKyAi5LiA5LqM5LiJ5Zub5LqU5YWt5LiD5YWr5LmdIltkIC0gMTFdIGlmIGQgPiAxMCBlbHNlICLljYEiCiAgICBpZiBkID09IDIwOgogICAgICAgIHJldHVybiAi5LqM5Y2BIgogICAgaWYgZCA8IDMwOgogICAgICAgIHJldHVybiAi5bu/IiArICLkuIDkuozkuInlm5vkupTlha3kuIPlhavkuZ0iW2QgLSAyMV0gaWYgZCA+IDIwIGVsc2UgIuW7vyIKICAgIHJldHVybiAi5LiJ5Y2BIgoKCmRlZiBzb2xhcl90b19sdW5hcihzb2xhcjogZGF0ZSwgdGFibGU6IGRpY3QpOgogICAgIiIiUmV0dXJuIChsdW5hcl9tb250aCwgaXNfbGVhcCwgbHVuYXJfZGF5KSB1c2luZyB0aGUgY29tcGFjdCB0YWJsZS4iIiIKICAgIGZvciBseSBpbiBzb3J0ZWQoaW50KHkpIGZvciB5IGluIHRhYmxlKToKICAgICAgICBpbmZvID0gdGFibGVbc3RyKGx5KV0KICAgICAgICBueSA9IGRhdGUuZnJvbWlzb2Zvcm1hdChpbmZvWzBdKQogICAgICAgIGxlYXAgPSBpbmZvWzFdCiAgICAgICAgbGVuZ3RocyA9IGluZm9bMjpdCiAgICAgICAgc2VncyA9IFtdICAjIChtb250aCwgaXNfbGVhcCkKICAgICAgICBmb3IgbSBpbiByYW5nZSgxLCAxMyk6CiAgICAgICAgICAgIHNlZ3MuYXBwZW5kKChtLCAwKSkKICAgICAgICAgICAgaWYgbSA9PSBsZWFwOgogICAgICAgICAgICAgICAgc2Vncy5hcHBlbmQoKG0sIDEpKQogICAgICAgIGFzc2VydCBsZW4oc2VncykgPT0gbGVuKGxlbmd0aHMpLCAobHksIGxlbihzZWdzKSwgbGVuKGxlbmd0aHMpKQogICAgICAgIHRvdGFsID0gc3VtKGxlbmd0aHMpCiAgICAgICAgb2Zmc2V0ID0gKHNvbGFyIC0gbnkpLmRheXMKICAgICAgICBpZiAwIDw9IG9mZnNldCA8IHRvdGFsOgogICAgICAgICAgICBmb3IgKG0sIGlzbCksIGxuIGluIHppcChzZWdzLCBsZW5ndGhzKToKICAgICAgICAgICAgICAgIGlmIG9mZnNldCA8IGxuOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBtLCBpc2wsIG9mZnNldCArIDEKICAgICAgICAgICAgICAgIG9mZnNldCAtPSBsbgogICAgcmV0dXJuIE5vbmUKCgpkZWYgZmV0Y2hfd2VhdGhlcigpOgogICAgdXJsID0gKCJodHRwczovL2FwaS5vcGVuLW1ldGVvLmNvbS92MS9mb3JlY2FzdD9sYXRpdHVkZT0lcyZsb25naXR1ZGU9JXMiCiAgICAgICAgICAgIiZjdXJyZW50PXRlbXBlcmF0dXJlXzJtLHdlYXRoZXJfY29kZSIKICAgICAgICAgICAiJmRhaWx5PXdlYXRoZXJfY29kZSx0ZW1wZXJhdHVyZV8ybV9tYXgsdGVtcGVyYXR1cmVfMm1fbWluIgogICAgICAgICAgICImdGltZXpvbmU9QW1lcmljYSUlMkZUb3JvbnRvJmZvcmVjYXN0X2RheXM9NSIgJSAoTEFULCBMT04pKQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIGhlYWRlcnM9eyJVc2VyLUFnZW50IjogImtpbmRsZS1jYWxlbmRhci8xLjAifSkKICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9MjUpIGFzIHI6CiAgICAgICAgZGF0YSA9IGpzb24ubG9hZChyKQogICAgY3VyX3QgPSByb3VuZChkYXRhWyJjdXJyZW50Il1bInRlbXBlcmF0dXJlXzJtIl0pCiAgICBjdXJfYyA9IFdNTy5nZXQoZGF0YVsiY3VycmVudCJdWyJ3ZWF0aGVyX2NvZGUiXSwgIiIpCiAgICBkYXlzID0gZGF0YVsiZGFpbHkiXQogICAgZmMgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UoMSwgNCk6CiAgICAgICAgZHQgPSBkYXRlLmZyb21pc29mb3JtYXQoZGF5c1sidGltZSJdW2ldKQogICAgICAgIGxhYmVsID0gezE6ICLmmI7lpKkiLCAyOiAi5ZCO5aSpIn0uZ2V0KGkpIG9yICgi5ZGoIiArIFdFRUtEQVlTW2R0LndlZWtkYXkoKV0pCiAgICAgICAgZmMuYXBwZW5kKCgiJXMgJWQvJWQiICUgKGxhYmVsLCBkdC5tb250aCwgZHQuZGF5KSwKICAgICAgICAgICAgICAgICAgIFdNTy5nZXQoZGF5c1sid2VhdGhlcl9jb2RlIl1baV0sICIiKSwKICAgICAgICAgICAgICAgICAgICIlZMKwIH4gJWTCsCIgJSAocm91bmQoZGF5c1sidGVtcGVyYXR1cmVfMm1fbWluIl1baV0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcm91bmQoZGF5c1sidGVtcGVyYXR1cmVfMm1fbWF4Il1baV0pKSkpCiAgICByZXR1cm4gY3VyX3QsIGN1cl9jLCBmYwoKCmRlZiBsb2FkX3RvZG9zKHRvZGF5OiBkYXRlKToKICAgICIiIlJlYWQgdG9kb3MuanNvbiBuZXh0IHRvIHRoaXMgc2NyaXB0LiBSZXR1cm4gdXAgdG8gNCBzaG9ydCBpdGVtcywgYnV0CiAgICBvbmx5IHdoZW4gdGhlIGZpbGUncyBkYXRlIGlzIHRvZGF5IChzdGFsZSB0b2RvcyBhcmUgbmV2ZXIgc2hvd24pLgogICAgSXRlbXMgYXJlIHByZS1zYW5pdGl6ZWQgYnkgdGhlIHdyaXRlcjogc2hvcnQgcGhyYXNlcywgbm8gbmFtZXMvYW1vdW50cy4iIiIKICAgIHRyeToKICAgICAgICBkYXRhID0ganNvbi5sb2FkKG9wZW4ob3MucGF0aC5qb2luKEhFUkUsICJ0b2Rvcy5qc29uIiksIGVuY29kaW5nPSJ1dGYtOCIpKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICByZXR1cm4gW10KICAgIGlmIGRhdGEuZ2V0KCJkYXRlIikgIT0gdG9kYXkuaXNvZm9ybWF0KCk6CiAgICAgICAgcmV0dXJuIFtdCiAgICBpdGVtcyA9IFtdCiAgICBmb3IgaXQgaW4gZGF0YS5nZXQoIml0ZW1zIiwgW10pWzo0XToKICAgICAgICBpdCA9IHN0cihpdCkuc3RyaXAoKQogICAgICAgIGlmIGl0OgogICAgICAgICAgICBpdGVtcy5hcHBlbmQoaXRbOjI0XSkKICAgIHJldHVybiBpdGVtcwoKCmRlZiBmaW5kX2ZvbnQoYm9sZD1GYWxzZSwgc2VyaWY9RmFsc2UpOgogICAgaW1wb3J0IGdsb2IKICAgIHBhdHMgPSBbXQogICAgbmFtZXMgPSAoWyJOb3RvU2VyaWZDSksiXSBpZiBzZXJpZiBlbHNlIFsiTm90b1NhbnNDSksiLCAiTm90b1NlcmlmQ0pLIl0pCiAgICBmb3IgbiBpbiBuYW1lczoKICAgICAgICBwYXRzLmFwcGVuZCgiL3Vzci9zaGFyZS9mb250cy9vcGVudHlwZS9ub3RvLyVzLSVzLnR0YyIgJSAobiwgIkJvbGQiIGlmIGJvbGQgZWxzZSAiUmVndWxhciIpKQogICAgICAgIHBhdHMuYXBwZW5kKCIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL25vdG8vJXMtJXMudHRjIiAlIChuLCAiQm9sZCIgaWYgYm9sZCBlbHNlICJSZWd1bGFyIikpCiAgICAgICAgcGF0cyArPSBnbG9iLmdsb2IoIi91c3Ivc2hhcmUvZm9udHMvKiovJXMtJXMuKiIgJSAobiwgIkJvbGQiIGlmIGJvbGQgZWxzZSAiUmVndWxhciIpLCByZWN1cnNpdmU9VHJ1ZSkKICAgIGZvciBwIGluIHBhdHM6CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgICAgIHJldHVybiBwCiAgICByYWlzZSBSdW50aW1lRXJyb3IoIk5vIENKSyBmb250IGZvdW5kIikKCgpkZWYgcmVuZGVyKHRvZGF5OiBkYXRlLCB3ZWF0aGVyLCBsdW5hciwgdG9kb3MsIG91dF9wYXRoKToKICAgIGltZyA9IEltYWdlLm5ldygiTCIsIChXLCBIKSwgMjU1KQogICAgZCA9IEltYWdlRHJhdy5EcmF3KGltZykKCiAgICBkZWYgZm9udChzaXplLCBib2xkPUZhbHNlLCBzZXJpZj1GYWxzZSk6CiAgICAgICAgcmV0dXJuIEltYWdlRm9udC50cnVldHlwZShmaW5kX2ZvbnQoYm9sZCwgc2VyaWYpLCBzaXplKQoKICAgIGRlZiBjdGV4dChjeCwgeSwgcywgZm50LCBmaWxsPTApOgogICAgICAgIGQudGV4dCgoY3gsIHkpLCBzLCBmb250PWZudCwgZmlsbD1maWxsLCBhbmNob3I9Im1hIikKCiAgICBCTEFDSywgR1JBWSwgTEdSQVkgPSAwLCAxMTAsIDE5MAoKICAgIHkgPSA1NgogICAgY3RleHQoVyAvIDIsIHksICIlZCDlubQgJWQg5pyIIiAlICh0b2RheS55ZWFyLCB0b2RheS5tb250aCksIGZvbnQoNTYsIGJvbGQ9VHJ1ZSkpOyB5ICs9IDc4CiAgICBjdGV4dChXIC8gMiwgeSwgIuaYnyDmnJ8gIiArIFdFRUtEQVlTW3RvZGF5LndlZWtkYXkoKV0sIGZvbnQoNDIpLCBmaWxsPUdSQVkpOyB5ICs9IDU4CgogICAgZl9iaWcgPSBmb250KDI4OCwgYm9sZD1UcnVlKQogICAgcyA9IHN0cih0b2RheS5kYXkpCiAgICBiYiA9IGQudGV4dGJib3goKDAsIDApLCBzLCBmb250PWZfYmlnKQogICAgZC50ZXh0KChXIC8gMiwgeSArIDYpLCBzLCBmb250PWZfYmlnLCBmaWxsPUJMQUNLLCBhbmNob3I9Im10IikKICAgIHkgKz0gKGJiWzNdIC0gYmJbMV0pICsgMjIKCiAgICBsbSwgbGVhcCwgbGQgPSBsdW5hcgogICAgbHVuYXJfc3RyID0gIuWGnOWOhiIgKyAoIumXsCIgaWYgbGVhcCBlbHNlICIiKSArIExVTkFSX01PTlRIU1tsbSAtIDFdICsgIuaciCIgKyBsdW5hcl9kYXlfc3RyKGxkKQogICAgY3RleHQoVyAvIDIsIHksIGx1bmFyX3N0ciwgZm9udCg1Niwgc2VyaWY9VHJ1ZSkpOyB5ICs9IDcyCgogICAgaWYgd2VhdGhlcjoKICAgICAgICBjdXJfdCwgY3VyX2MsIF8gPSB3ZWF0aGVyCiAgICAgICAgY3RleHQoVyAvIDIsIHksICJNYXJraGFtIOeOsOWcqCAlZMKwQyDCtyAlcyIgJSAoY3VyX3QsIGN1cl9jKSwgZm9udCg0MiksIGZpbGw9R1JBWSkKICAgIHkgKz0gNzAKCiAgICBkLmxpbmUoWyg5MCwgeSksIChXIC0gOTAsIHkpXSwgZmlsbD1MR1JBWSwgd2lkdGg9Myk7IHkgKz0gMzYKCiAgICBneCwgY3cgPSA4MiwgMTU3CiAgICBmb3IgaSwgbGIgaW4gZW51bWVyYXRlKFsi5pelIiwgIuS4gCIsICLkuowiLCAi5LiJIiwgIuWbmyIsICLkupQiLCAi5YWtIl0pOgogICAgICAgIGN0ZXh0KGd4ICsgaSAqIGN3ICsgY3cgLyAyLCB5LCBsYiwgZm9udCgzOCwgYm9sZD1UcnVlKSwgZmlsbD1HUkFZKQogICAgeSArPSA1MAogICAgY2hoID0gNzQKICAgIGZpcnN0ID0gZGF0ZSh0b2RheS55ZWFyLCB0b2RheS5tb250aCwgMSkKICAgIHN0YXJ0X2NvbCA9IChmaXJzdC53ZWVrZGF5KCkgKyAxKSAlIDcgICMgU3VuZGF5LWZpcnN0IGdyaWQKICAgIGltcG9ydCBjYWxlbmRhciBhcyBfY2FsCiAgICBuZGF5cyA9IF9jYWwubW9udGhyYW5nZSh0b2RheS55ZWFyLCB0b2RheS5tb250aClbMV0KICAgIGNlbGwgPSAwCiAgICBmb3IgciBpbiByYW5nZSg2KToKICAgICAgICBmb3IgYyBpbiByYW5nZSg3KToKICAgICAgICAgICAgZGF5bnVtID0gY2VsbCAtIHN0YXJ0X2NvbCArIDEKICAgICAgICAgICAgY2VsbCArPSAxCiAgICAgICAgICAgIGlmIG5vdCAoMSA8PSBkYXludW0gPD0gbmRheXMpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgeDAsIHkwID0gZ3ggKyBjICogY3csIHkgKyByICogY2hoCiAgICAgICAgICAgIGlmIGRheW51bSA9PSB0b2RheS5kYXk6CiAgICAgICAgICAgICAgICBkLnJvdW5kZWRfcmVjdGFuZ2xlKFt4MCArIDE4LCB5MCArIDgsIHgwICsgY3cgLSAxOCwgeTAgKyBjaGggLSA4XSwgcmFkaXVzPTE4LCBmaWxsPUJMQUNLKQogICAgICAgICAgICAgICAgY3RleHQoeDAgKyBjdyAvIDIsIHkwICsgMTIsIHN0cihkYXludW0pLCBmb250KDUwLCBib2xkPVRydWUpLCBmaWxsPTI1NSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGN0ZXh0KHgwICsgY3cgLyAyLCB5MCArIDEyLCBzdHIoZGF5bnVtKSwgZm9udCg1MCksCiAgICAgICAgICAgICAgICAgICAgICBmaWxsPShCTEFDSyBpZiBjIGluICgwLCA2KSBlbHNlIDYwKSkKICAgICAgICBpZiBjZWxsIC0gc3RhcnRfY29sID49IG5kYXlzOgogICAgICAgICAgICB1c2VkX3Jvd3MgPSByICsgMQogICAgICAgICAgICBicmVhawogICAgeSArPSB1c2VkX3Jvd3MgKiBjaGggKyAyNgoKICAgIGlmIHRvZG9zOgogICAgICAgIGQubGluZShbKDkwLCB5KSwgKFcgLSA5MCwgeSldLCBmaWxsPUxHUkFZLCB3aWR0aD0zKTsgeSArPSAyOAogICAgICAgIGN0ZXh0KFcgLyAyLCB5LCAi5LuKIOaXpSDlvoUg5YqeIiwgZm9udCgzOCwgYm9sZD1UcnVlKSwgZmlsbD1HUkFZKTsgeSArPSA1MgogICAgICAgIGZvciBpdCBpbiB0b2RvczoKICAgICAgICAgICAgZC50ZXh0KCgxMTgsIHkpLCAi4pahICIgKyBpdCwgZm9udD1mb250KDQwKSwgZmlsbD1CTEFDSywgYW5jaG9yPSJsYSIpCiAgICAgICAgICAgIHkgKz0gNTIKICAgICAgICB5ICs9IDQKCiAgICBkLmxpbmUoWyg5MCwgeSksIChXIC0gOTAsIHkpXSwgZmlsbD1MR1JBWSwgd2lkdGg9Myk7IHkgKz0gMzAKICAgIGN0ZXh0KFcgLyAyLCB5LCAi5aSpIOawlCDpooQg5oqlIiwgZm9udCgzOCwgYm9sZD1UcnVlKSwgZmlsbD1HUkFZKTsgeSArPSA1MgoKICAgIGlmIHdlYXRoZXI6CiAgICAgICAgZmMgPSB3ZWF0aGVyWzJdCiAgICAgICAgY29sdyA9IChXIC0gMTIwKSAvLyAzCiAgICAgICAgZm9yIGksICh0LCBjb25kLCB0ZW1wKSBpbiBlbnVtZXJhdGUoZmMpOgogICAgICAgICAgICBjeCA9IDYwICsgaSAqIGNvbHcgKyBjb2x3IC8gMgogICAgICAgICAgICBjdGV4dChjeCwgeSwgdCwgZm9udCgzOCksIGZpbGw9R1JBWSkKICAgICAgICAgICAgY3RleHQoY3gsIHkgKyA0OCwgY29uZCwgZm9udCg1NCwgYm9sZD1UcnVlKSkKICAgICAgICAgICAgY3RleHQoY3gsIHkgKyAxMTIsIHRlbXAsIGZvbnQoNDIpKQogICAgICAgIHkgKz0gMTEyICsgNDYKCiAgICBpZiB5IDwgSCAtIDg0OgogICAgICAgIGN0ZXh0KFcgLyAyLCBIIC0gNjQsICJLaW5kbGUg5bGP5L+d5pel5Y6GIiwgZm9udCgzMCksIGZpbGw9TEdSQVkpCiAgICBpbWcuc2F2ZShvdXRfcGF0aCkKCgpkZWYgbWFpbigpOgogICAgdG9kYXkgPSBkYXRldGltZS5ub3coVFopLmRhdGUoKQogICAgdGFibGUgPSBqc29uLmxvYWQob3Blbihvcy5wYXRoLmpvaW4oSEVSRSwgImx1bmFyX3RhYmxlLmpzb24iKSwgZW5jb2Rpbmc9InV0Zi04IikpCiAgICBsdW5hciA9IHNvbGFyX3RvX2x1bmFyKHRvZGF5LCB0YWJsZSkKICAgIGlmIGx1bmFyIGlzIE5vbmU6CiAgICAgICAgcHJpbnQoImx1bmFyIHRhYmxlIGRvZXMgbm90IGNvdmVyIiwgdG9kYXksIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICBzeXMuZXhpdCgxKQogICAgd2VhdGhlciA9IE5vbmUKICAgIHRyeToKICAgICAgICB3ZWF0aGVyID0gZmV0Y2hfd2VhdGhlcigpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6ICAjIGtlZXAgcmVuZGVyaW5nIHdpdGhvdXQgd2VhdGhlcgogICAgICAgIHByaW50KCJ3ZWF0aGVyIGZldGNoIGZhaWxlZDoiLCBlLCBmaWxlPXN5cy5zdGRlcnIpCiAgICB0b2RvcyA9IGxvYWRfdG9kb3ModG9kYXkpCiAgICBvdXQgPSBvcy5wYXRoLmpvaW4oSEVSRSwgImNhbGVuZGFyLnBuZyIpCiAgICByZW5kZXIodG9kYXksIHdlYXRoZXIsIGx1bmFyLCB0b2Rvcywgb3V0KQogICAgcHJpbnQoInJlbmRlcmVkIiwgb3V0LCAiZm9yIiwgdG9kYXksICJsdW5hciIsIGx1bmFyLCAidG9kb3MiLCBsZW4odG9kb3MpKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+#!/usr/bin/env python3
+"""Render today's screensaver calendar PNG (1264x1680, grayscale) for Kindle Oasis 3.
+
+Layout: big day number, weekday, lunar date, current weather (Markham, ON),
+month grid with today highlighted, today's todo list (from todos.json, only
+shown when the file's date is today), 3-day forecast. Weather from Open-Meteo
+(free, no key). Lunar conversion uses the bundled lunar_table.json
+(years 2025-2033, verified against the `lunardate` package).
+Output: calendar.png in this script's directory.
+"""
+import json
+import os
+import sys
+import urllib.request
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
+
+from PIL import Image, ImageDraw, ImageFont
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+TZ = ZoneInfo("America/Toronto")
+W, H = 1264, 1680
+LAT, LON = 43.90, -79.27  # Markham, ON
+
+WMO = {0: "晴", 1: "多云", 2: "多云", 3: "阴", 45: "雾", 48: "雾",
+       51: "毛毛雨", 53: "毛毛雨", 55: "毛毛雨", 56: "冻毛毛雨", 57: "冻毛毛雨",
+       61: "小雨", 63: "中雨", 65: "大雨", 66: "冻雨", 67: "冻雨",
+       71: "小雪", 73: "中雪", 75: "大雪", 77: "雪粒",
+       80: "阵雨", 81: "阵雨", 82: "暴雨", 85: "阵雪", 86: "阵雪",
+       95: "雷阵雨", 96: "冰雹", 99: "冰雹"}
+LUNAR_MONTHS = ["正", "二", "三", "四", "五", "六", "七", "八", "九", "十", "冬", "腊"]
+WEEKDAYS = ["一", "二", "三", "四", "五", "六", "日"]  # Monday-first
+
+
+def lunar_day_str(d):
+    if d <= 10:
+        return "初" + "一二三四五六七八九十"[d - 1]
+    if d < 20:
+        return "十" + "一二三四五六七八九"[d - 11] if d > 10 else "十"
+    if d == 20:
+        return "二十"
+    if d < 30:
+        return "廿" + "一二三四五六七八九"[d - 21] if d > 20 else "廿"
+    return "三十"
+
+
+def solar_to_lunar(solar: date, table: dict):
+    """Return (lunar_month, is_leap, lunar_day) using the compact table."""
+    for ly in sorted(int(y) for y in table):
+        info = table[str(ly)]
+        ny = date.fromisoformat(info[0])
+        leap = info[1]
+        lengths = info[2:]
+        segs = []  # (month, is_leap)
+        for m in range(1, 13):
+            segs.append((m, 0))
+            if m == leap:
+                segs.append((m, 1))
+        assert len(segs) == len(lengths), (ly, len(segs), len(lengths))
+        total = sum(lengths)
+        offset = (solar - ny).days
+        if 0 <= offset < total:
+            for (m, isl), ln in zip(segs, lengths):
+                if offset < ln:
+                    return m, isl, offset + 1
+                offset -= ln
+    return None
+
+
+def fetch_weather():
+    url = ("https://api.open-meteo.com/v1/forecast?latitude=%s&longitude=%s"
+           "&current=temperature_2m,weather_code"
+           "&daily=weather_code,temperature_2m_max,temperature_2m_min"
+           "&timezone=America%%2FToronto&forecast_days=5" % (LAT, LON))
+    req = urllib.request.Request(url, headers={"User-Agent": "kindle-calendar/1.0"})
+    with urllib.request.urlopen(req, timeout=25) as r:
+        data = json.load(r)
+    cur_t = round(data["current"]["temperature_2m"])
+    cur_c = WMO.get(data["current"]["weather_code"], "")
+    days = data["daily"]
+    fc = []
+    for i in range(1, 4):
+        dt = date.fromisoformat(days["time"][i])
+        label = {1: "明天", 2: "后天"}.get(i) or ("周" + WEEKDAYS[dt.weekday()])
+        fc.append(("%s %d/%d" % (label, dt.month, dt.day),
+                   WMO.get(days["weather_code"][i], ""),
+                   "%d° ~ %d°" % (round(days["temperature_2m_min"][i]),
+                                  round(days["temperature_2m_max"][i]))))
+    return cur_t, cur_c, fc
+
+
+def load_todos(today: date):
+    """Read todos.json next to this script. Return up to 4 short items, but
+    only when the file's date is today (stale todos are never shown).
+    Items are pre-sanitized by the writer: short phrases, no names/amounts."""
+    try:
+        data = json.load(open(os.path.join(HERE, "todos.json"), encoding="utf-8"))
+    except Exception:
+        return []
+    if data.get("date") != today.isoformat():
+        return []
+    items = []
+    for it in data.get("items", [])[:4]:
+        it = str(it).strip()
+        if it:
+            items.append(it[:24])
+    return items
+
+
+def find_font(bold=False, serif=False):
+    import glob
+    pats = []
+    names = (["NotoSerifCJK"] if serif else ["NotoSansCJK", "NotoSerifCJK"])
+    for n in names:
+        pats.append("/usr/share/fonts/opentype/noto/%s-%s.ttc" % (n, "Bold" if bold else "Regular"))
+        pats.append("/usr/share/fonts/truetype/noto/%s-%s.ttc" % (n, "Bold" if bold else "Regular"))
+        pats += glob.glob("/usr/share/fonts/**/%s-%s.*" % (n, "Bold" if bold else "Regular"), recursive=True)
+    for p in pats:
+        if os.path.exists(p):
+            return p
+    raise RuntimeError("No CJK font found")
+
+
+def render(today: date, weather, lunar, todos, out_path):
+    img = Image.new("L", (W, H), 255)
+    d = ImageDraw.Draw(img)
+
+    def font(size, bold=False, serif=False):
+        return ImageFont.truetype(find_font(bold, serif), size)
+
+    def ctext(cx, y, s, fnt, fill=0):
+        d.text((cx, y), s, font=fnt, fill=fill, anchor="ma")
+
+    BLACK, GRAY, LGRAY = 0, 110, 190
+
+    y = 56
+    ctext(W / 2, y, "%d 年 %d 月" % (today.year, today.month), font(56, bold=True)); y += 78
+    ctext(W / 2, y, "星 期 " + WEEKDAYS[today.weekday()], font(42), fill=GRAY); y += 58
+
+    f_big = font(288, bold=True)
+    s = str(today.day)
+    bb = d.textbbox((0, 0), s, font=f_big)
+    d.text((W / 2, y + 6), s, font=f_big, fill=BLACK, anchor="mt")
+    y += (bb[3] - bb[1]) + 22
+
+    lm, leap, ld = lunar
+    lunar_str = "农历" + ("闰" if leap else "") + LUNAR_MONTHS[lm - 1] + "月" + lunar_day_str(ld)
+    ctext(W / 2, y, lunar_str, font(56, serif=True)); y += 72
+
+    if weather:
+        cur_t, cur_c, _ = weather
+        ctext(W / 2, y, "Markham 现在 %d°C · %s" % (cur_t, cur_c), font(42), fill=GRAY)
+    y += 70
+
+    d.line([(90, y), (W - 90, y)], fill=LGRAY, width=3); y += 36
+
+    gx, cw = 82, 157
+    for i, lb in enumerate(["日", "一", "二", "三", "四", "五", "六"]):
+        ctext(gx + i * cw + cw / 2, y, lb, font(38, bold=True), fill=GRAY)
+    y += 50
+    chh = 74
+    first = date(today.year, today.month, 1)
+    start_col = (first.weekday() + 1) % 7  # Sunday-first grid
+    import calendar as _cal
+    ndays = _cal.monthrange(today.year, today.month)[1]
+    cell = 0
+    for r in range(6):
+        for c in range(7):
+            daynum = cell - start_col + 1
+            cell += 1
+            if not (1 <= daynum <= ndays):
+                continue
+            x0, y0 = gx + c * cw, y + r * chh
+            if daynum == today.day:
+                d.rounded_rectangle([x0 + 18, y0 + 8, x0 + cw - 18, y0 + chh - 8], radius=18, fill=BLACK)
+                ctext(x0 + cw / 2, y0 + 12, str(daynum), font(50, bold=True), fill=255)
+            else:
+                ctext(x0 + cw / 2, y0 + 12, str(daynum), font(50),
+                      fill=(BLACK if c in (0, 6) else 60))
+        if cell - start_col >= ndays:
+            used_rows = r + 1
+            break
+    y += used_rows * chh + 26
+
+    if todos:
+        d.line([(90, y), (W - 90, y)], fill=LGRAY, width=3); y += 28
+        ctext(W / 2, y, "今 日 待 办", font(38, bold=True), fill=GRAY); y += 52
+        for it in todos:
+            d.text((118, y), "□ " + it, font=font(40), fill=BLACK, anchor="la")
+            y += 52
+        y += 4
+
+    d.line([(90, y), (W - 90, y)], fill=LGRAY, width=3); y += 30
+    ctext(W / 2, y, "天 气 预 报", font(38, bold=True), fill=GRAY); y += 52
+
+    if weather:
+        fc = weather[2]
+        colw = (W - 120) // 3
+        for i, (t, cond, temp) in enumerate(fc):
+            cx = 60 + i * colw + colw / 2
+            ctext(cx, y, t, font(38), fill=GRAY)
+            ctext(cx, y + 48, cond, font(54, bold=True))
+            ctext(cx, y + 112, temp, font(42))
+        y += 112 + 46
+
+    if y < H - 84:
+        ctext(W / 2, H - 64, "Kindle 屏保日历", font(30), fill=LGRAY)
+    img.save(out_path)
+
+
+def main():
+    today = datetime.now(TZ).date()
+    table = json.load(open(os.path.join(HERE, "lunar_table.json"), encoding="utf-8"))
+    lunar = solar_to_lunar(today, table)
+    if lunar is None:
+        print("lunar table does not cover", today, file=sys.stderr)
+        sys.exit(1)
+    weather = None
+    try:
+        weather = fetch_weather()
+    except Exception as e:  # keep rendering without weather
+        print("weather fetch failed:", e, file=sys.stderr)
+    todos = load_todos(today)
+    out = os.path.join(HERE, "calendar.png")
+    render(today, weather, lunar, todos, out)
+    print("rendered", out, "for", today, "lunar", lunar, "todos", len(todos))
+
+
+if __name__ == "__main__":
+    main()
