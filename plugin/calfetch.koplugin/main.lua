@@ -1,1 +1,115 @@
-LS0gY2FsZmV0Y2gua29wbHVnaW46IGZldGNoIHRoZSBkYWlseSBzY3JlZW5zYXZlciBjYWxlbmRhciBpbWFnZS4KLS0gRG93bmxvYWRzIGNhbGVuZGFyLnBuZyBmcm9tIGEgZml4ZWQgcHVibGljIFVSTCBvbmNlIGEgZGF5IChvbiBLT1JlYWRlcgotLSBzdGFydCAvIHJlc3VtZSB3aGVuIHRoZSBjYWNoZWQgZmlsZSBpcyBzdGFsZSkgaW50byBrb3JlYWRlci9jYWxlbmRhci5wbmcuCi0tIFBvaW50IEtPUmVhZGVyJ3Mgc2NyZWVuc2F2ZXIgaW1hZ2Ugc2V0dGluZyBhdCB0aGF0IGZpbGUgb25jZTsgZXZlcnkKLS0gb3ZlcndyaXRlIHRoZW4gc2hvd3MgdXAgYXMgdGhlIG5ldyBzbGVlcCBzY3JlZW4gYXV0b21hdGljYWxseS4KCmxvY2FsIERhdGFTdG9yYWdlID0gcmVxdWlyZSgiZGF0YXN0b3JhZ2UiKQpsb2NhbCBJbmZvTWVzc2FnZSA9IHJlcXVpcmUoInVpL3dpZGdldC9pbmZvbWVzc2FnZSIpCmxvY2FsIE5ldHdvcmtNZ3IgPSByZXF1aXJlKCJ1aS9uZXR3b3JrL21hbmFnZXIiKQpsb2NhbCBVSU1hbmFnZXIgPSByZXF1aXJlKCJ1aS91aW1hbmFnZXIiKQpsb2NhbCBXaWRnZXRDb250YWluZXIgPSByZXF1aXJlKCJ1aS93aWRnZXQvY29udGFpbmVyL3dpZGdldGNvbnRhaW5lciIpCmxvY2FsIGh0dHBzID0gcmVxdWlyZSgic3NsLmh0dHBzIikKbG9jYWwgbGZzID0gcmVxdWlyZSgibGlicy9saWJrb3JlYWRlci1sZnMiKQpsb2NhbCBsb2dnZXIgPSByZXF1aXJlKCJsb2dnZXIiKQpsb2NhbCBsdG4xMiA9IHJlcXVpcmUoImx0bjEyIikKbG9jYWwgXyA9IHJlcXVpcmUoImdldHRleHQiKQoKbG9jYWwgSU1BR0VfVVJMID0gImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wZW5ueWFzdS9raW5kbGUtY2FsZW5kYXIvbWFpbi9jYWxlbmRhci5wbmciCmxvY2FsIFRBUkdFVCA9IERhdGFTdG9yYWdlOmdldERhdGFEaXIoKSAuLiAiL2NhbGVuZGFyLnBuZyIKCmxvY2FsIENhbEZldGNoID0gV2lkZ2V0Q29udGFpbmVyOmV4dGVuZHsKICAgIG5hbWUgPSAiY2FsZmV0Y2giLAogICAgaXNfZG9jX29ubHkgPSBmYWxzZSwKfQoKbG9jYWwgZnVuY3Rpb24gaXNfc3RhbGUoKQogICAgbG9jYWwgYXR0ciA9IGxmcy5hdHRyaWJ1dGVzKFRBUkdFVCkKICAgIGlmIG5vdCBhdHRyIG9yIG5vdCBhdHRyLm1vZGlmaWNhdGlvbiB0aGVuCiAgICAgICAgcmV0dXJuIHRydWUKICAgIGVuZAogICAgbG9jYWwgbm93ID0gb3MuZGF0ZSgiKnQiKQogICAgbG9jYWwgbW9kID0gb3MuZGF0ZSgiKnQiLCBhdHRyLm1vZGlmaWNhdGlvbikKICAgIHJldHVybiBub3cueWVhciB+PSBtb2QueWVhciBvciBub3cueWRheSB+PSBtb2QueWRheQplbmQKCmxvY2FsIGZ1bmN0aW9uIGRvd25sb2FkKCkKICAgIGxvY2FsIHRtcCA9IFRBUkdFVCAuLiAiLnRtcCIKICAgIGxvY2FsIGZpbGUgPSBpby5vcGVuKHRtcCwgIndiIikKICAgIGlmIG5vdCBmaWxlIHRoZW4gcmV0dXJuIGZhbHNlIGVuZAogICAgbG9jYWwgb2ssIGNvZGUgPSBwY2FsbChmdW5jdGlvbigpCiAgICAgICAgbG9jYWwgXywgc3RhdHVzID0gaHR0cHMucmVxdWVzdHsKICAgICAgICAgICAgdXJsID0gSU1BR0VfVVJMLAogICAgICAgICAgICBtZXRob2QgPSAiR0VUIiwKICAgICAgICAgICAgc2luayA9IGx0bjEyLnNpbmsuZmlsZShmaWxlKSwKICAgICAgICAgICAgcHJvdG9jb2wgPSAidGxzdjFfMiIsCiAgICAgICAgfQogICAgICAgIHJldHVybiBzdGF0dXMKICAgIGVuZCkKICAgIGlmIG5vdCBvayBvciBjb2RlIH49IDIwMCB0aGVuCiAgICAgICAgbG9nZ2VyLndhcm4oImNhbGZldGNoOiBkb3dubG9hZCBmYWlsZWQiLCBvaywgY29kZSkKICAgICAgICBvcy5yZW1vdmUodG1wKQogICAgICAgIHJldHVybiBmYWxzZQogICAgZW5kCiAgICBsb2NhbCBhdHRyID0gbGZzLmF0dHJpYnV0ZXModG1wKQogICAgaWYgbm90IGF0dHIgb3IgKGF0dHIuc2l6ZSBvciAwKSA8IDEwMDAwIHRoZW4KICAgICAgICBsb2dnZXIud2FybigiY2FsZmV0Y2g6IGRvd25sb2FkZWQgZmlsZSBzdXNwaWNpb3VzbHkgc21hbGwiKQogICAgICAgIG9zLnJlbW92ZSh0bXApCiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICBlbmQKICAgIG9zLnJlbW92ZShUQVJHRVQpCiAgICBsb2NhbCByZW5hbWVkID0gb3MucmVuYW1lKHRtcCwgVEFSR0VUKQogICAgaWYgbm90IHJlbmFtZWQgdGhlbgogICAgICAgIG9zLnJlbW92ZSh0bXApCiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICBlbmQKICAgIGxvZ2dlci5pbmZvKCJjYWxmZXRjaDogY2FsZW5kYXIucG5nIHVwZGF0ZWQiKQogICAgcmV0dXJuIHRydWUKZW5kCgpmdW5jdGlvbiBDYWxGZXRjaDpmZXRjaChtYW51YWwpCiAgICBpZiBub3QgTmV0d29ya01ncjppc09ubGluZSgpIHRoZW4KICAgICAgICBpZiBtYW51YWwgdGhlbgogICAgICAgICAgICBVSU1hbmFnZXI6c2hvdyhJbmZvTWVzc2FnZTpuZXd7IHRleHQgPSBfKCLlsY/kv53ml6XljobvvJrlvZPliY3msqHmnInnvZHnu5zjgIIiKSB9KQogICAgICAgIGVuZAogICAgICAgIHJldHVybiBmYWxzZQogICAgZW5kCiAgICBsb2NhbCBvayA9IGRvd25sb2FkKCkKICAgIGlmIG1hbnVhbCB0aGVuCiAgICAgICAgVUlNYW5hZ2VyOnNob3coSW5mb01lc3NhZ2U6bmV3ewogICAgICAgICAgICB0ZXh0ID0gb2sgYW5kIF8oIuWxj+S/neaXpeWOhuW3suabtOaWsOWIsOS7iuWkqeOAgiIpIG9yIF8oIuWxj+S/neaXpeWOhuabtOaWsOWksei0pe+8jOivt+eojeWQjuWGjeivleOAgiIpLAogICAgICAgIH0pCiAgICBlbmQKICAgIHJldHVybiBvawplbmQKCmZ1bmN0aW9uIENhbEZldGNoOm1heWJlRmV0Y2goKQogICAgaWYgaXNfc3RhbGUoKSB0aGVuCiAgICAgICAgaWYgTmV0d29ya01ncjppc09ubGluZSgpIHRoZW4KICAgICAgICAgICAgc2VsZjpmZXRjaChmYWxzZSkKICAgICAgICBlbHNlCiAgICAgICAgICAgIC0tIFJldHJ5IGluIDE1IG1pbnV0ZXM7IEtPUmVhZGVyIG1heSBzdGlsbCBiZSBjb25uZWN0aW5nIHRvIFdpLUZpLgogICAgICAgICAgICBVSU1hbmFnZXI6c2NoZWR1bGVJbig5MDAsIGZ1bmN0aW9uKCkgc2VsZjptYXliZUZldGNoKCkgZW5kKQogICAgICAgIGVuZAogICAgZW5kCmVuZAoKZnVuY3Rpb24gQ2FsRmV0Y2g6aW5pdCgpCiAgICBVSU1hbmFnZXI6c2NoZWR1bGVJbigxNSwgZnVuY3Rpb24oKSBzZWxmOm1heWJlRmV0Y2goKSBlbmQpCmVuZAoKZnVuY3Rpb24gQ2FsRmV0Y2g6b25SZXN1bWUoKQogICAgc2VsZjptYXliZUZldGNoKCkKZW5kCgpmdW5jdGlvbiBDYWxGZXRjaDphZGRUb01haW5NZW51KG1lbnVfaXRlbXMpCiAgICBtZW51X2l0ZW1zLmNhbGZldGNoX3VwZGF0ZSA9IHsKICAgICAgICB0ZXh0ID0gXygi5pu05paw5bGP5L+d5pel5Y6GIiksCiAgICAgICAgc29ydGluZ19oaW50ID0gInRvb2xzIiwKICAgICAgICBjYWxsYmFjayA9IGZ1bmN0aW9uKCkKICAgICAgICAgICAgc2VsZjpmZXRjaCh0cnVlKQogICAgICAgIGVuZCwKICAgIH0KZW5kCgpyZXR1cm4gQ2FsRmV0Y2gK
+-- calfetch.koplugin: fetch the daily screensaver calendar image.
+-- Downloads calendar.png from a fixed public URL once a day (on KOReader
+-- start / resume when the cached file is stale) into koreader/calendar.png.
+-- Point KOReader's screensaver image setting at that file once; every
+-- overwrite then shows up as the new sleep screen automatically.
+
+local DataStorage = require("datastorage")
+local InfoMessage = require("ui/widget/infomessage")
+local NetworkMgr = require("ui/network/manager")
+local UIManager = require("ui/uimanager")
+local WidgetContainer = require("ui/widget/container/widgetcontainer")
+local https = require("ssl.https")
+local lfs = require("libs/libkoreader-lfs")
+local logger = require("logger")
+local ltn12 = require("ltn12")
+local _ = require("gettext")
+
+local IMAGE_URL = "https://raw.githubusercontent.com/pennyasu/kindle-calendar/main/calendar.png"
+local TARGET = DataStorage:getDataDir() .. "/calendar.png"
+
+local CalFetch = WidgetContainer:extend{
+    name = "calfetch",
+    is_doc_only = false,
+}
+
+local function is_stale()
+    local attr = lfs.attributes(TARGET)
+    if not attr or not attr.modification then
+        return true
+    end
+    local now = os.date("*t")
+    local mod = os.date("*t", attr.modification)
+    return now.year ~= mod.year or now.yday ~= mod.yday
+end
+
+local function download()
+    local tmp = TARGET .. ".tmp"
+    local file = io.open(tmp, "wb")
+    if not file then return false end
+    local ok, code = pcall(function()
+        local _, status = https.request{
+            url = IMAGE_URL,
+            method = "GET",
+            sink = ltn12.sink.file(file),
+            protocol = "tlsv1_2",
+        }
+        return status
+    end)
+    if not ok or code ~= 200 then
+        logger.warn("calfetch: download failed", ok, code)
+        os.remove(tmp)
+        return false
+    end
+    local attr = lfs.attributes(tmp)
+    if not attr or (attr.size or 0) < 10000 then
+        logger.warn("calfetch: downloaded file suspiciously small")
+        os.remove(tmp)
+        return false
+    end
+    os.remove(TARGET)
+    local renamed = os.rename(tmp, TARGET)
+    if not renamed then
+        os.remove(tmp)
+        return false
+    end
+    logger.info("calfetch: calendar.png updated")
+    return true
+end
+
+function CalFetch:fetch(manual)
+    if not NetworkMgr:isOnline() then
+        if manual then
+            UIManager:show(InfoMessage:new{ text = _("屏保日历：当前没有网络。") })
+        end
+        return false
+    end
+    local ok = download()
+    if manual then
+        UIManager:show(InfoMessage:new{
+            text = ok and _("屏保日历已更新到今天。") or _("屏保日历更新失败，请稍后再试。"),
+        })
+    end
+    return ok
+end
+
+function CalFetch:maybeFetch()
+    if is_stale() then
+        if NetworkMgr:isOnline() then
+            self:fetch(false)
+        else
+            -- Retry in 15 minutes; KOReader may still be connecting to Wi-Fi.
+            UIManager:scheduleIn(900, function() self:maybeFetch() end)
+        end
+    end
+end
+
+function CalFetch:init()
+    UIManager:scheduleIn(15, function() self:maybeFetch() end)
+end
+
+function CalFetch:onResume()
+    self:maybeFetch()
+end
+
+function CalFetch:addToMainMenu(menu_items)
+    menu_items.calfetch_update = {
+        text = _("更新屏保日历"),
+        sorting_hint = "tools",
+        callback = function()
+            self:fetch(true)
+        end,
+    }
+end
+
+return CalFetch
