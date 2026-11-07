@@ -1,0 +1,51 @@
+name: Daily calendar image
+
+on:
+  schedule:
+    # 05:10 America/Toronto (EST, UTC-5). During EDT this fires at 06:10 local;
+    # acceptable for a screensaver refreshed overnight.
+    - cron: "10 10 * * *"
+  push:
+    # A fresh todos.json (pushed by the morning sync) re-renders the image
+    # with today's todo list included.
+    paths:
+      - "todos.json"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-calendar
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install fonts and Pillow
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq fonts-noto-cjk
+          pip install --quiet pillow tzdata
+
+      - name: Render today's calendar
+        run: python render_calendar.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "kindle-calendar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- calendar.png; then
+            echo "calendar.png unchanged"
+          else
+            git add calendar.png
+            git commit -m "calendar: $(TZ=America/Toronto date +%F)"
+            git push
+          fi
